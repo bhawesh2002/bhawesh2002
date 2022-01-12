@@ -13,10 +13,10 @@
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
 - ⚡ TRUE TO LIFE FACT 
-- **if(code=bugs){
-- A Coder never sleep's;
-- }else
-- {never codes}**
+- **if(code=bugs){**
+- **A Coder never sleep's;**
+- **}else**
+- **{never codes}**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
