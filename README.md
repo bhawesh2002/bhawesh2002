@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhaweshmankar" target="blank"><img src="https://img.shields.io/twitter/follow/bhaweshmankar?logo=twitter&style=for-the-badge" alt="bhaweshmankar" /></a> </p>
 
-- 🔭 I’m currently working on [device tree for Hanoip](https://github.com/bhawesh2002/android_device_motorola_hanoip)
+- 🔭 I’m currently working on [twrp tree for Hanoip](https://github.com/bhawesh2002/android_device_motorola_hanoip_twrp)
 
 - 🌱 I’m currently learning **C++, Python, Dart + Flutter ,Android OS**
 
