@@ -1,4 +1,4 @@
-<h3 align="center">A student from India learning to CODE</h3>
+<h3 align="center">A student from India learning to **CODE**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawesh2002&label=Profile%20views&color=0e75b6&style=flat" alt="bhawesh2002" /> </p>
 
