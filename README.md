@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhawesh2002" alt="bhawesh2002" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bhaweshmankar" target="blank"><img src="https://img.shields.io/twitter/follow/bhaweshmankar?logo=twitter&style=for-the-badge" alt="bhaweshmankar" /></a> </p>
 
 - 🔭 I’m currently working on [twrp tree for Hanoip](https://github.com/bhawesh2002/android_device_motorola_hanoip_twrp)
 
