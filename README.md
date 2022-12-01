@@ -37,4 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhawesh2002&show_icons=true&locale=en" alt="bhawesh2002" /></p>
 
+<a href="https://quine.sh/profile/bhawesh2002"><img src="https://stats.quine.sh/bhawesh2002/github" alt="bhawesh2002's GitHub stats" width="840px"></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhawesh2002&" alt="bhawesh2002" /></p>
