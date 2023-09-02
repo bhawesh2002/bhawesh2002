@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhawesh2002" alt="bhawesh2002" /></a> </p>
 
 
-- 🔭 I’m currently working on [twrp tree for Hanoip](https://github.com/bhawesh2002/android_device_motorola_hanoip_twrp)
+- 🔭 I’m currently working on my startup
 
-- 🌱 I’m currently learning **C++, Python, Dart + Flutter ,Android OS**
+- 🌱 I’m currently learning **C++, Python, Dart + Flutter ,Android OS, UI/UX designing**
 
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
