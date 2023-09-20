@@ -15,7 +15,7 @@
 
  **#include < ctask >**
 
- **if(code=bugs){**
+ **if(code==bugs){**
  
  **cout << "A Coder never sleep's" << endl;**
  
