@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a flutter web app
 
-- 🌱 I’m currently learning **C ,C++, Python, Dart + Flutter ,Android OS, UI/UX designing**
+- 🌱 I’m currently learning **C ,C++, Python, Dart + Flutter ,Android OS, UI/UX designing, Figma**
 
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
