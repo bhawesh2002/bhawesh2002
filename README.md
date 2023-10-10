@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhawesh2002" alt="bhawesh2002" /></a> </p>
 
 
-- 🔭 I’m currently working on a flutter web app
+- 🔭 I’m currently working on SkyScape a weather app made using flutter
 
 - 🌱 I’m currently learning **C ,C++, Python, Dart + Flutter ,Android OS, UI/UX designing, Figma**
 
