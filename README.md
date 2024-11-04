@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Archive Org Script](https://github.com/bhawesh2002/archive-org-script)
 
-- 🌱 I’m currently learning **C ,C++, Python, Dart + Flutter ,Django, Android OS, UI/UX designing, Figma, Html + Css, JavaScript**
+- 🌱 I’m currently learning **Dart + Flutter, Django, Python, UI/UX designing, Figma, C ,C++, Html + Css, JavaScript, Android OS**
 
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
@@ -17,7 +17,7 @@
 
  **if(code==bugs){**
  
- **cout << "A Coder never sleep's" << endl;**
+ **cout << "A Coder never sleeps" << endl;**
  
  **}else**
  **{cout << "never codes" << endl;}**
