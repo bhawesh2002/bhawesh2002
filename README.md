@@ -11,17 +11,6 @@
 
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
-- ⚡ TRUE TO LIFE FACT 
-
- **#include < ctask >**
-
- **if(code==bugs){**
- 
- **cout << "A Coder never sleeps" << endl;**
- 
- **}else**
- **{cout << "never codes" << endl;}**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bhawesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhawesh2002" height="30" width="40" /></a>
