@@ -15,8 +15,7 @@
 <p align="left">
 <a href="https://dev.to/bhawesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhawesh2002" height="30" width="40" /></a>
 <a href="https://twitter.com/bhaweshmankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaweshmankar" height="30" width="40" /></a>
-<a href="https://fb.com/bhawesh.mankar.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhawesh.mankar.7" height="30" width="40" /></a>
-<a href="https://instagram.com/bhawesh712002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhawesh712002" height="30" width="40" /></a>
+<a href="https://instagram.com/bhawesh712002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavesh.0702" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
