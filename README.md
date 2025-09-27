@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Archive Org Script](https://github.com/bhawesh2002/archive-org-script)
 
-- 🌱 I’m currently learning **Dart + Flutter, Django, Python, UI/UX designing, Figma, C ,C++, Html + Css, JavaScript, Android OS**
+- 🌱 I’m currently learning **Dart + Flutter, Django, Python, UI/UX designing, Figma, C ,C++, Unity, C#**
 
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
