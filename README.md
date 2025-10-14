@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawesh2002&label=Profile%20views&color=0e75b6&style=flat" alt="bhawesh2002" /> </p>
 
 
-- 🔭 I’m currently working on [Polyglot](https://github.com/bhawesh2002/polyglot).
+- 🔭 I’m currently working on [Polyglot](https://github.com/bhawesh2002/polyglot) and [Media Projection Plugin](https://github.com/bhawesh2002/media_projection_plugin).
 
 - 🌱 I’m currently learning **Dart + Flutter, Django, Python, UI/UX designing, Figma, C ,C++, Unity, C#**
 
