@@ -25,8 +25,9 @@
 <p align="left"> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a /p>
 
 ### Recent Medium Blog
-[![Bhavesh Mankar](https://github-readme-medium.vercel.app/?username=@bhaweshmankar2002)](https://medium.com/@bhaweshmankar2002/local-persistant-storage-in-flutter-getting-started-with-hivedb-71f836eef438)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshmankar2002/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaweshmankar2002/0" alt="Recent Article 0"> 
 
 Check out other Medium blogs: [@bhaweshmankar2002](https://medium.com/@bhaweshmankar2002) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhawesh2002&" alt="bhawesh2002" /></p>
+### GitHub Streak Status
+[![GitHub Streak](https://my-github-readme-streak-stats-ivory.vercel.app?user=bhawesh2002&theme=dark&hide_border=true&background=45%2C0BEB65A4%2C25BFFFD1&dates=12EBD1)](https://git.io/streak-stats)
