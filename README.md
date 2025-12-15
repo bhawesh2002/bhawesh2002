@@ -29,7 +29,4 @@
 
 Check out other Medium blogs: [@bhaweshmankar2002](https://medium.com/@bhaweshmankar2002) 
 
-
-<a href="https://quine.sh/profile/bhawesh2002"><img src="https://stats.quine.sh/bhawesh2002/github" alt="bhawesh2002's GitHub stats" width="840px"></a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhawesh2002&" alt="bhawesh2002" /></p>
