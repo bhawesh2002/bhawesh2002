@@ -1,6 +1,5 @@
 <h3 align="center">Hi, I am Bhavesh. A full stack devloper from India.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhawesh2002&title=MultiLanguage,Commits,Repositories,Experience,PullRequest,Issues&column=-1" alt="bhawesh2002" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawesh2002&label=Profile%20views&color=0e75b6&style=flat" alt="bhawesh2002" /> </p>
 
