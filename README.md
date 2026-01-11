@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bhawesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhawesh2002" height="30" width="40" /></a>
-<a href="https://x.com/bhaweshmankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BhaveshMankar02" height="30" width="40" /></a>
+<a href="https://x.com/BhaveshMankar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BhaveshMankar02" height="30" width="40" /></a>
 <a href="https://instagram.com/bhawesh712002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavesh.0702" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhavesh-mankar-73530a233" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="bhavesh-mankar-73530a233" height="45" width="40" /></a>  
 <a href="https://medium.com/@bhaweshmankar2002" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" alt="bhaweshmankar2002" height="50" width="50" /></a>
