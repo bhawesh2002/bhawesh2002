@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Polyglot](https://github.com/bhawesh2002/polyglot) and [Media Projection Plugin](https://github.com/bhawesh2002/media_projection_plugin).
 
-- 🌱 I’m currently learning **Dart + Flutter, Django, Python, UI/UX designing, Figma, C ,C++, Unity, C#, Kotlin**
+- 🌱 I’m currently learning **Dart + Flutter, Python, Django, Fast API, UI/UX designing, Figma, C ,C++, Unity, C#, Kotlin**
 
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
