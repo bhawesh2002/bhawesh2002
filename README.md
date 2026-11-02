@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawesh2002&label=Profile%20views&color=0e75b6&style=flat" alt="bhawesh2002" /> </p>
 
 
-- 🔭 I’m currently working on [Polyglot](https://github.com/bhawesh2002/polyglot) and [Media Projection Plugin](https://github.com/bhawesh2002/media_projection_plugin).
+- 🔭 I’m currently working on [Cenlo](https://cenlo.app).
 
-- 🌱 I’m currently learning **Dart + Flutter, Python, Django, Fast API, UI/UX designing, Figma, C ,C++, Unity, C#, Kotlin**
+- 🌱 I’m currently learning **Machine Learning Engineering**
 
 - 📫 How to reach me **bhaweshmankar2002@gmail.com**
 
